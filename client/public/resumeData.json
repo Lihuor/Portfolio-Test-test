@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Lihuor Slot",
+    "occupation": "Full-stack web developer",
+    "description": "Warehouse manager by the day, & Freelancer by the night",
+    "image": "profilePic.JPG",
+    "bio": "My name is Lihuor, I'm a Full-stack web developer. Currently I'm building apps using javascript and React",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "lihuor@gmail.com",
+    "phone": "+61 451 099 969",
+    "address": {
+      "street": "",
+      "city": "Melbourne",
+      "state": "VIC",
+      "country": "Australia"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1YylEVgdh-nHC85s6mupoCRsG3hUiAK3C/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lihuor-slot",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Lihuor",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Monash University",
+        "degree": "Coding Boot Camp",
+        "graduated": "October 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Holmesglen Institute",
+        "degree": "Accounting Degree",
+        "graduated": "December 2016",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Kangan Institute",
+        "degree": "Certificate 4 in Accounting",
+        "graduated": "June 2014",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "LED Saves",
+        "title": "Warehouse Manager",
+        "years": "December 2017 - Present",
+        "description": "Warehouse stock and financial management"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "jQuery",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "92%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "95%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "96%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Coronavirus (COVID-19) Web Dashboard",
+        "category": "Web Dashboard using jQuery to retrieve data from APIs",
+        "image": "Covid-19.png",
+        "url": "https://lihuor.github.io/covid-dashboard/"
+      },
+      {
+        "title": "Trading Platform",
+        "category": "Rendering Dashboard using handlebars for the front-end and using MYSQL, NodeJs, Express, Sequelize, Unirest for the back-end",
+        "image": "Trading-platform.png",
+        "url": "https://fast-lake-54569.herokuapp.com/userSummery"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
